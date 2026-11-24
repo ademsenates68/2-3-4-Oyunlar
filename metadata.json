@@ -1,0 +1,6 @@
+{
+  "name": "CubeArena .io - 2 3 4 Kişilik Mini Oyunlar",
+  "description": "Tek ekranda 2, 3 veya 4 kişinin aynı anda oynayabileceği minimalist geometrik .io mini oyunlar koleksiyonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

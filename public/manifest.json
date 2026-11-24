@@ -1,0 +1,26 @@
+{
+  "name": "CubeArena .io - 2 3 4 Kişilik Mini Oyunlar",
+  "short_name": "CubeArena .io",
+  "description": "Tek ekranda 2, 3 veya 4 kişilik minimalist küp ve geometrik .io mini oyunlar koleksiyonu.",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0B0F19",
+  "theme_color": "#0B0F19",
+  "categories": ["games", "arcade", "multiplayer"],
+  "lang": "tr-TR",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='36' fill='%230B0F19'/%3E%3Crect x='28' y='28' width='60' height='60' rx='12' fill='%2300F5D4'/%3E%3Crect x='104' y='28' width='60' height='60' rx='12' fill='%23FF2A85'/%3E%3Crect x='28' y='104' width='60' height='60' rx='12' fill='%23FEE440'/%3E%3Crect x='104' y='104' width='60' height='60' rx='12' fill='%239B5DE5'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%230B0F19'/%3E%3Crect x='72' y='72' width='164' height='164' rx='28' fill='%2300F5D4'/%3E%3Crect x='276' y='72' width='164' height='164' rx='28' fill='%23FF2A85'/%3E%3Crect x='72' y='276' width='164' height='164' rx='28' fill='%23FEE440'/%3E%3Crect x='276' y='276' width='164' height='164' rx='28' fill='%239B5DE5'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
